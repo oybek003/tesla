@@ -1,0 +1,26 @@
+.list1{
+    background-color: cadetblue;
+    border: 3px solid red;
+    border-radius: 50px;
+    text-align: center;
+    height: 25px;
+    font-size: 20px;
+}
+
+h4{
+    color: blue;
+}
+
+.list2{
+    background-color: red;
+}
+
+td{
+    background-color: blueviolet;
+}
+
+.oybek{
+    text-align: center;
+    width: 200px;
+    background-color: rgb(108, 249, 108);
+}
